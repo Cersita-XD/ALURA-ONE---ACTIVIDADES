@@ -1,2 +1,1 @@
-# ALURA-ONE---ACTIVIDADES
-Repositorio creado para las actividades de Alura One
+#Repositorio para poryectos personales y/o practicas de aprendizaje
