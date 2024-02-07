@@ -1,1 +1,1 @@
-#Repositorio para poryectos personales y/o practicas de aprendizaje
+#Repositorio para proyectos personales y/o practicas de aprendizaje.
